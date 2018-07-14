@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded',function () {
+window.addEventListener('load',function () {
     if (document.querySelector('.goods-card')) {
         var Height = function (node) {
             var self= this;
